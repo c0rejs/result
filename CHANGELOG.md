@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.5.26 (2026-01-18)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix inspect method (● [c27fb17](https://github.com/c0rejs/result/commit/c27fb17); 👬 zdm)
+
+Compare with the previous release: [v6.5.25](https://github.com/c0rejs/result/compare/v6.5.25...v6.5.26)
+
 ### v6.5.25 (2026-01-05)
 
 **Other changes:**
