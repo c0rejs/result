@@ -1,5 +1,11 @@
 # Changelog
 
+### v6.5.28 (2026-01-29)
+
+No changes since the previous release.
+
+Compare with the previous release: [v6.5.27](https://github.com/c0rejs/result/compare/v6.5.27...v6.5.28)
+
 ### v6.5.27 (2026-01-27)
 
 No changes since the previous release.
